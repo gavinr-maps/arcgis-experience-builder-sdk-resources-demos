@@ -10092,6 +10092,45 @@
     "group": 7
   },
   {
+    "name": "message-subscriber",
+    "manifest": {
+      "name": "message-subscriber",
+      "label": "Message Subscriber",
+      "dependency": "jimu-arcgis",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is the widget used in developer guide",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "messageActions": [
+        {
+          "name": "query",
+          "label": "query",
+          "uri": "actions/query-action",
+          "settingUri": "actions/query-action-setting"
+        }
+      ],
+      "properties": {
+        "hasConfig": true
+      },
+      "translatedLocales": [
+        "en"
+      ]
+    },
+    "i18nLabel": {
+      "en": "Message Subscriber"
+    },
+    "i18nDescription": {
+      "en": null
+    },
+    "uri": "widgets/message-subscriber/",
+    "icon": "widgets/message-subscriber/icon.svg",
+    "order": 700,
+    "group": 7
+  },
+  {
     "name": "show-record-id",
     "manifest": {
       "name": "show-record-id",
