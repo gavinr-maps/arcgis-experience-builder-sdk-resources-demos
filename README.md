@@ -5,4 +5,5 @@ Demonstration apps showing off the sample widgets from [ArcGIS Experience Builde
 ## Apps
 
 - [listen-selection-change](https://gavinr-maps.github.io/arcgis-experience-builder-sdk-resources-demos/listen-selection-change)
+- [message-subscriber](https://gavinr-maps.github.io/arcgis-experience-builder-sdk-resources-demos/message-subscriber)
 - [show-record-id](https://gavinr-maps.github.io/arcgis-experience-builder-sdk-resources-demos/show-record-id)
